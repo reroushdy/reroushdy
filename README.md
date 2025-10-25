@@ -2,10 +2,9 @@
 
 - 👀 I’m interested in learning automation testing and data analytics.
 
-- ✨ I am working on a website to display sample data/quesies, data visualization and the fun part quality testing the overall naviation of the website and processes used to ensure effective UI/UX. 
+- ✨ I am working on a website to display sample data/queries, data visualization and the fun part; quality testing the overall naviation of the website and processes used to ensure effective UI/UX. 
 
-- 🌱 I’m currently learning how to use visual studio code, Robot Framework and Playwright for automation testing, mySQL for data analysis, and Tableau for data visualization. 
-
+- 🌱 I’m currently learning how to use visual studio code, Robot Framework and Playwright for automation testing, mySQL for data analysis, and Tableau for data visualization. Inkscape is also a neat open source application I use to bring the message together and also utilizing some of my design sparkle. 
 
 #  ✨My objective is to combine my technical and design skills to make a valuable contribution to a workforce that could possibly benefit from a little pizazz.✨
 
