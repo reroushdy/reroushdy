@@ -1,4 +1,4 @@
-#  👋 Hi, I’m @reroushdy or Hammie NANA - my first name is -> reham <- 
+#  👋 Hi, I’m @reroushdy or Hammie NaNa - my first name is -> reham <- 
 
 - 👀 I’m interested in learning automation testing and data analytics.
 
