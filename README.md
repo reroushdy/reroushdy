@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning how to use visual studio code, Robot Framework and Playwright for automation testing, mySQL for data analysis, and Tableau for data visualization. Inkscape is also a neat open source application I use to bring the message together and also utilizing some of my design sparkle. 
 
-##  ✨My objective is to combine my technical and design skills to make a valuable contribution to a workforce that could possibly benefit from a little pizazz.✨
+###  ✨My objective is to combine my technical and design skills to make a valuable contribution.✨
 
-- 💞️ I’m looking to collaborate on ways to improve automation testing and data queries to increase the presence of a variable or concpt that might help solve a defined problem - your time and consideration is most appreciated. 
+- 💞️ I’m looking to collaborate on ways to improve automation testing and data queries to increase the presence of a variable or concept that might help solve a defined problem - your time and consideration is most appreciated. 
 
 - 📫 How to reach me: reroushdy@gmail.com
 
