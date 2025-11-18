@@ -4,7 +4,7 @@
 
 - ✨ I am working on a website to showcase my work - thank you in advance for your patience as I figure this all out. 
 
-- 🌱 I’m currently learning how to use visual studio code, Robot Framework and Playwright for automation testing, mySQL for data analysis, and Tableau for data visualization. Inkscape is also a neat open source application I use to bring the message together and also utilizing some of my design sparkle. 
+- 🌱 I’m currently learning how to use visual studio code, Robot Framework and Playwright for automation testing, MySQL for data analysis, and Tableau for data visualization. Inkscape is also a neat open source application I use to bring the message together and also adding some design sparkle. 
 
 ###  ✨My objective is to combine my technical and design skills to make a valuable contribution.✨
 
