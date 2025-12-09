@@ -6,11 +6,6 @@
   I test things, break things, learn things, and occasionally make them beautiful again.
 </div>
 
-<div align="center">
-📬 Connect
-📊 Project Signals
-</div>
-
 
 ## ✨ About Me
 
