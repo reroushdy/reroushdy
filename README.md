@@ -71,11 +71,12 @@ It’s sports analytics… but make it tidy.
 
 Structured learning paths I created to level up across domains:
 
-	- Hypatia’s QA Lab
-	- Hypatia’s Data Studio
-	- Hypatia’s AI Training
-	- Hypatia’s Cybersecurity Lab
-	- Hypatia’s Philosophy of Human Experience
+	- Whati is AI - Basic Logic Behind All AI
+	- How neural networks learn internally
+	- How to build and train a simple model
+	- Ethics, bias, and safety
+	- How AI Is Used in QA Automation and Testing
+	- Modulary prompt systems
 
 A multi-threaded AI-powered personal knowledge system.
 
