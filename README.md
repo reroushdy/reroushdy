@@ -98,8 +98,10 @@ If you’re exploring QA workflows, data patterns, automation architecture, docu
 
 ## 📫 Reach Me
 
-Email: reroushdy@gmail.com
-I appreciate thoughtful questions, kind humans, and a good exchange of ideas.
+- Email: reroushdy@gmail.com
+- LinkedIn: www.linkedin.com/in/reham-roushdy-83406713/
+
+- I appreciate thoughtful questions, kind humans, and a good exchange of ideas.
 
 
 
