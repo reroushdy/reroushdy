@@ -76,7 +76,7 @@ Structured learning paths I created to level up across domains:
 	- How to build and train a simple model
 	- Ethics, bias, and safety
 	- How AI Is Used in QA Automation and Testing
-	- Modulary prompt systems
+	- Modular prompt systems
 
 A multi-threaded AI-powered personal knowledge system.
 
