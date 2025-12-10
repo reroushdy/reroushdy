@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Reham (Hammie NaNa)
+## 👋 Hi, I’m Reham ((ريهام) pronounced as "rih-HAM" or call me Hammie))
 
 <div align="center">
   <em>QA Explorer ▪ Automation Tinkerer ▪ Data Storyteller</em>  
